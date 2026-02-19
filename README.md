@@ -2,12 +2,12 @@
 
 ## 👋 Bem-vindo(a) ao meu repositório do desafio CarnaCode 2026!
 
-Oi, eu sou o Henrique Pereira e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **CanraCode 2026**, realizado pelo [balta.io](https://balta.io). 🥳
+Oi, eu sou o Henrique Pereira e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **CarnaCode 2026**, realizado pelo [balta.io](https://balta.io). 🥳
 
 Aqui você vai encontrar projetos, exercícios e códigos que estou desenvolvendo durante o desafio. O objetivo é colocar a mão na massa, testar ideias e registrar minha evolução no mundo da tecnologia.
 
 ### Sobre o desafio
-O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cenários reais. Durante os 23 desafios desta jornada, os participantes são submetidos ao aprendizado e prática de:
+O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cenários reais. Durante os 23 desafios desta jornada, os participantes são submetidos ao aprendizado e à prática de:
 
 **Creational (5)**
 - Singleton
@@ -51,8 +51,13 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
   <img width="221" height="247" alt="image" src="https://github.com/user-attachments/assets/d7cce45e-caa1-40c5-b6fc-d8266dd33474" />
   <figcaption>Factory Method</figcaption>
 </figure>
+<figure>
+  <img width="221" height="247" alt="image" src="https://github.com/user-attachments/assets/6860a71e-e7e3-4373-a92c-d040e7676ca3" />
+  <figcaption>Prototype</figcaption>
+</figure>
 
 ### Meus Projetos
 - [Abstract Factory](https://github.com/henriquebp87/balta-desafio-carnacode-2026_1-abstract-factory)
 - [Builder](https://github.com/henriquebp87/balta-desafio-carnacode-2026_2-builder)
 - [Factory Method](https://github.com/henriquebp87/balta-desafio-carnacode-2026_3-factory-method)
+- [Prototype](https://github.com/henriquebp87/balta-desafio-carnacode-2026_4-prototype)
