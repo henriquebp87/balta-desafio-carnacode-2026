@@ -2,7 +2,7 @@
 
 ## 👋 Bem-vindo(a) ao meu repositório do desafio CarnaCode 2026!
 
-Oi, eu sou o [seu nome aqui] e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **CanraCode 2026**, realizado pelo [balta.io](https://balta.io). 🥳
+Oi, eu sou o Henrique Pereira e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **CanraCode 2026**, realizado pelo [balta.io](https://balta.io). 🥳
 
 Aqui você vai encontrar projetos, exercícios e códigos que estou desenvolvendo durante o desafio. O objetivo é colocar a mão na massa, testar ideias e registrar minha evolução no mundo da tecnologia.
 
@@ -45,4 +45,6 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
 [Incluir recompensas que você recebeu]
 
 ### Meus Projetos
-[Incluir lista de projetos do desafio]
+- [Factory Method](https://github.com/henriquebp87/balta-desafio-carnacode-2026_3-factory-method)
+- [Abstract Factory](https://github.com/henriquebp87/balta-desafio-carnacode-2026_1-abstract-factory)
+- [Builder](https://github.com/henriquebp87/balta-desafio-carnacode-2026_2-builder)
