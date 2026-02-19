@@ -38,13 +38,21 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
 - Visitor
 - Interpreter
 
-### Recompensas
-<img width="2065" height="3072" alt="recompensas" src="https://github.com/user-attachments/assets/9f65428f-cfbd-4c40-b94a-47a1b670415a" />
-
 ### Minhas Recompensas
-[Incluir recompensas que você recebeu]
+<figure>
+  <img width="221" height="247" alt="image" src="https://github.com/user-attachments/assets/53873044-278d-46d6-97b3-4b8864b966e1" />
+  <figcaption>Abstract Factory</figcaption>
+</figure>
+<figure>
+  <img width="221" height="247" alt="image" src="https://github.com/user-attachments/assets/b71ffc73-a36a-48f8-971e-6a191db996d0" />
+  <figcaption>Builder</figcaption>
+</figure>
+<figure>
+  <img width="221" height="247" alt="image" src="https://github.com/user-attachments/assets/d7cce45e-caa1-40c5-b6fc-d8266dd33474" />
+  <figcaption>Factory Method</figcaption>
+</figure>
 
 ### Meus Projetos
-- [Factory Method](https://github.com/henriquebp87/balta-desafio-carnacode-2026_3-factory-method)
 - [Abstract Factory](https://github.com/henriquebp87/balta-desafio-carnacode-2026_1-abstract-factory)
 - [Builder](https://github.com/henriquebp87/balta-desafio-carnacode-2026_2-builder)
+- [Factory Method](https://github.com/henriquebp87/balta-desafio-carnacode-2026_3-factory-method)
