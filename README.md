@@ -40,23 +40,23 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
 
 ### Minhas Recompensas
 <figure>
-  <img width="221" height="247" alt="image" src="https://github.com/user-attachments/assets/53873044-278d-46d6-97b3-4b8864b966e1" />
+  <img width="110" height="124" alt="image" src="https://github.com/user-attachments/assets/53873044-278d-46d6-97b3-4b8864b966e1" />
   <figcaption>Abstract Factory</figcaption>
 </figure>
 <figure>
-  <img width="221" height="247" alt="image" src="https://github.com/user-attachments/assets/b71ffc73-a36a-48f8-971e-6a191db996d0" />
+  <img width="110" height="124" alt="image" src="https://github.com/user-attachments/assets/b71ffc73-a36a-48f8-971e-6a191db996d0" />
   <figcaption>Builder</figcaption>
 </figure>
 <figure>
-  <img width="221" height="247" alt="image" src="https://github.com/user-attachments/assets/d7cce45e-caa1-40c5-b6fc-d8266dd33474" />
+  <img width="110" height="124" alt="image" src="https://github.com/user-attachments/assets/d7cce45e-caa1-40c5-b6fc-d8266dd33474" />
   <figcaption>Factory Method</figcaption>
 </figure>
 <figure>
-  <img width="221" height="247" alt="image" src="https://github.com/user-attachments/assets/6860a71e-e7e3-4373-a92c-d040e7676ca3" />
+  <img width="110" height="124" alt="image" src="https://github.com/user-attachments/assets/6860a71e-e7e3-4373-a92c-d040e7676ca3" />
   <figcaption>Prototype</figcaption>
 </figure>
 <figure>
-  <img width="221" height="247" alt="image" src="https://github.com/user-attachments/assets/9cce2489-06d4-4ffb-b4b8-5eeae5ea181f" />
+  <img width="110" height="124" alt="image" src="https://github.com/user-attachments/assets/9cce2489-06d4-4ffb-b4b8-5eeae5ea181f" />
   <figcaption>Singleton</figcaption>
 </figure>
 
