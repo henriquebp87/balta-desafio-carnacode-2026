@@ -67,6 +67,10 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
   <img width="110" height="124" alt="image" src="https://github.com/user-attachments/assets/71d72933-fdf3-4f71-859d-e6949d996e3d" />
   <figcaption>Bridge</figcaption>
 </figure>
+<figure>
+  <img width="110" height="124" alt="image" src="https://github.com/user-attachments/assets/2777c001-daee-4b72-aa4a-bf2d22b77195" />
+  <figcaption>Composite</figcaption>
+</figure>
 
 ### Meus Projetos
 - [Abstract Factory](https://github.com/henriquebp87/balta-desafio-carnacode-2026_1-abstract-factory)
@@ -76,3 +80,4 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
 - [Singleton](https://github.com/henriquebp87/balta-desafio-carnacode-2026_5-singleton)
 - [Adapter](https://github.com/henriquebp87/balta-desafio-carnacode-2026_6-adapter)
 - [Bridge](https://github.com/henriquebp87/balta-desafio-carnacode-2026_7-bridge)
+- [Composite](https://github.com/henriquebp87/balta-desafio-carnacode-2026_8-composite)
