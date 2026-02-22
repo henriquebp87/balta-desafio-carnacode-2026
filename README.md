@@ -93,6 +93,10 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
   <img width="110" height="124" alt="image" src="https://github.com/user-attachments/assets/16d5cf71-d330-4518-bcee-586050fefe3d" />
   <figcaption>Chain of Responsibility</figcaption>
 </figure>
+<figure>
+  <img width="110" height="124" alt="image" src="https://github.com/user-attachments/assets/13a87d50-4451-4390-b2b4-5ab3517cbba7" />
+  <figcaption>Command</figcaption>
+</figure>
 
 ### Meus Projetos
 - [Abstract Factory](https://github.com/henriquebp87/balta-desafio-carnacode-2026_1-abstract-factory)
@@ -108,3 +112,4 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
 - [Flyweight](https://github.com/henriquebp87/balta-desafio-carnacode-2026_11-flyweight)
 - [Proxy](https://github.com/henriquebp87/balta-desafio-carnacode-2026_12-proxy)
 - [Chain of Responsibility](https://github.com/henriquebp87/balta-desafio-carnacode-2026_13-chain-of-responsibility)
+- [Command](https://github.com/henriquebp87/balta-desafio-carnacode-2026_14-command)
