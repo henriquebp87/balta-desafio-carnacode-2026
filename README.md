@@ -59,6 +59,7 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
   <img width="110" height="124" alt="image" src="https://github.com/user-attachments/assets/9cce2489-06d4-4ffb-b4b8-5eeae5ea181f" />
   <figcaption>Singleton</figcaption>
 </figure>
+<br />
 <figure>
   <img width="110" height="124" alt="image" src="https://github.com/user-attachments/assets/d8d0b50f-37a2-4ffd-ae3c-a4a625655b91" />
   <figcaption>Adapter</figcaption>
@@ -87,6 +88,7 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
   <img width="110" height="124" alt="image" src="https://github.com/user-attachments/assets/091e37ee-d0b1-45cf-a989-67c292bb6f5e" />
   <figcaption>Proxy</figcaption>
 </figure>
+<br />
 <figure>
   <img width="110" height="124" alt="image" src="https://github.com/user-attachments/assets/16d5cf71-d330-4518-bcee-586050fefe3d" />
   <figcaption>Chain of Responsibility</figcaption>
