@@ -105,6 +105,10 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
   <img width="110" height="124" alt="image" src="https://github.com/user-attachments/assets/0885ca02-f383-4e6a-ab83-194bc23882a9" />
   <figcaption>Iterator</figcaption>
 </figure>
+<figure>
+  <img width="110" height="124" alt="image" src="https://github.com/user-attachments/assets/81362076-8162-4d34-a96f-cfb154826f6f" />
+  <figcaption>Mediator</figcaption>
+</figure>
 
 ### Meus Projetos
 - [Abstract Factory](https://github.com/henriquebp87/balta-desafio-carnacode-2026_1-abstract-factory)
@@ -123,3 +127,4 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
 - [Command](https://github.com/henriquebp87/balta-desafio-carnacode-2026_14-command)
 - [Interpreter](https://github.com/henriquebp87/balta-desafio-carnacode-2026_15-interpreter)
 - [Iterator](https://github.com/henriquebp87/balta-desafio-carnacode-2026_16-iterator)
+- [Mediator](https://github.com/henriquebp87/balta-desafio-carnacode-2026_17-mediator)
