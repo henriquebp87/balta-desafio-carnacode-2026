@@ -110,7 +110,7 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
   <figcaption>Mediator</figcaption>
 </figure>
 <figure>
-  <img width="221" height="247" alt="memento" src="https://github.com/user-attachments/assets/7c3616c5-d96d-4239-8a3a-95764b359232" />
+  <img width="110" height="124" alt="memento" src="https://github.com/user-attachments/assets/7c3616c5-d96d-4239-8a3a-95764b359232" />
   <figcaption>Memento</figcaption>
 </figure>
 
