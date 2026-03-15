@@ -134,3 +134,4 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
 - [Mediator](https://github.com/henriquebp87/balta-desafio-carnacode-2026_17-mediator)
 - [Memento](https://github.com/henriquebp87/balta-desafio-carnacode-2026_18-memento)
 - [Observer](https://github.com/henriquebp87/balta-desafio-carnacode-2026_19-observer)
+- [State](https://github.com/henriquebp87/balta-desafio-carnacode-2026_20-state)
